@@ -4,7 +4,7 @@
 # Filters are case‑insensitive regular expressions (grep -E).
 # repos.txt.example – copy to repos.txt and edit
 
-ircfspace/teleMirror|v1.3.3|tele-mirror-x64-win.zip.
+ircfspace/teleMirror
 # Filters are case‑insensitive regular expressions (grep -E).
 
 # 1. No filter – keep all assets from the release
